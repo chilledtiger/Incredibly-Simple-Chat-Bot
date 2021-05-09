@@ -1,6 +1,12 @@
 # Incredibly-Simple-Chat-Bot
-This is my first peice of code. Hope you like it. Its very simple. Just a answer and question bot. 
 
-To use it you need to copy it into the termianl of a python terminal.
-Then enter.
-It will give a question through the terminal and you just have to answer it by typing your answer and hitting enter.
+This is my first piece of code.I hope you like it. Its very simple. It's a simple question and answer chatbot made in Python.
+
+# Dependencies
+
+- To run this code, you will require Python, 3.9 is recommended.
+
+# Running the code
+
+- Download the `main.py` file and then either double click it to run, or navigate to the directory containing it and use `python main.py` or your equivalent command to execute the script.
+
